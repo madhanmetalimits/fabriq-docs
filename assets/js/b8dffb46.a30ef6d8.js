@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3511],{7046:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/fabriq-docs/blog/tags/hola","allTagsPath":"/fabriq-docs/blog/tags","count":1}')}}]);
