@@ -68,6 +68,7 @@ const config = {
         logo: {
           alt: 'Fabriq logo',
           src: 'img/fabriq.png',
+          href: 'https://getfabriq.com/'
         },
         items: [
           {
@@ -78,7 +79,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/madhanmetalimits/fabriq-docs',
             label: 'GitHub',
             position: 'right',
           },
