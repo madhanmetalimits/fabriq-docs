@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Fabriq
+sidebar_label: Introduction
 ---
 
 # Fabriq
@@ -49,5 +49,5 @@ For general help using Fabriq, please refer to the [official documentation](http
 
 ## 📜 Privacy Policy
 
-https://website.stg.getfabriq.com/privacy-policy
+[Privacy Policy](https://website.stg.getfabriq.com/privacy-policy).
 
